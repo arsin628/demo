@@ -6,4 +6,9 @@ public class LogIn {
 		
 		System.out.println("this is LogIn page");
 	}
+	
+public void logInNew() {
+		
+		System.out.println("this is LogIn new");
+	}
 }
