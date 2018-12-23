@@ -6,5 +6,7 @@ public class TestUtil {
 	public void testUtil() {
 		
 		System.out.println("test util page");
+		
+		String x = "test1";
 	}
 }
